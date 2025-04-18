@@ -1,5 +1,6 @@
 /*
 14. Square Every Digit
+
 Given an integer, your task is to square every digit of it and concatenate them to produce a new integer.
 */
 

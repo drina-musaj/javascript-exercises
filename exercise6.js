@@ -1,6 +1,7 @@
 /*6. Keep Hydrated!
+
 Nathan loves cycling. Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per
- hour of cycling. Given the time in hours, you need to return the number of litres of water that Nathan will drink,
+hour of cycling. Given the time in hours, you need to return the number of litres of water that Nathan will drink,
 rounded to the smallest value.
 */
 

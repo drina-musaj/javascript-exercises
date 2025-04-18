@@ -1,23 +1,22 @@
 /*
 20. Shortest Word
+
 Given a non-empty string of words, return the length of the shortest word(s).
 */
 
 
 const findShort = str => {
 
-    // let words = str.split(" ")
-    // let minWord="";
-
     let words =  str.split(' ');
-    let minLength = words[0].length;
+    let minWord = words[0].length;
 
     for (let word of words){
-        if(word.length<minLength)
-            minLength=word.length
+        if(word.length<minWord)
+
+            minWord=word.length
     }
 
-    return minLength
+    return minWord
 };
 
 console.log(findShort('Test where final word shortest see')); // 3

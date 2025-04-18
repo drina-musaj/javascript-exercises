@@ -1,5 +1,6 @@
 /*
 18. Mumbling
+
 Given a string which includes only letters, write a function that produces the outputs below.
 */
 

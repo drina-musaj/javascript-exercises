@@ -1,8 +1,10 @@
 /*
 15. You're a Square!
+
 Write a function that given an integer, checks to see if it is a square number.
 A square number or perfect square is an integer that is the square of an integer; 
-in other words, it is the product of some integer with itself. */
+in other words, it is the product of some integer with itself. 
+*/
 
 const isSquare = n => {
 

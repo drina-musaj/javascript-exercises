@@ -1,7 +1,9 @@
 /*
 13. Create Phone Number
+
 Write a function that accepts an array of 10 integers (between 0 and 9), 
-and returns a string of those numbers in the form of a phone number. */
+and returns a string of those numbers in the form of a phone number. 
+*/
 
 const createPhoneNumber = numbers => {
 

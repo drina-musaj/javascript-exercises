@@ -1,5 +1,6 @@
 /*
 16. Highest and Lowest
+
 Given a string of space-separated numbers, write a function that returns the highest and lowest numbers. 
 There will always be at least one number in the input string.
 */

@@ -2,7 +2,7 @@
 19. Stop gninnipS My sdroW!
 
 Write a function that takes in a string of one or more words, and returns the same string,
- but with all five or more letter words reversed. Strings passed in will consist of only letters and spaces. 
+but with all five or more letter words reversed. Strings passed in will consist of only letters and spaces. 
  */
 
  const spinWords = str => {
@@ -13,7 +13,7 @@ Write a function that takes in a string of one or more words, and returns the sa
         if (words[i].length > 4) {
             words[i] = words[i].split("").reverse().join("");
           }
-          
+
         return words.join(" ");
 
         }

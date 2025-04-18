@@ -1,5 +1,6 @@
 /*
 17. Descending Order
+
 Write a function that takes any non-negative integer as an argument and returns it with 
 its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 */
